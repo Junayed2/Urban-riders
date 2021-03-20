@@ -1,0 +1,37 @@
+.header {
+    background-position: center center;
+    color: black;
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-size: cover;
+}
+
+.vehicleStyle {
+    margin-top: 300px;
+}
+
+.header .logo {
+    height: 50px;
+}
+
+.title-container {
+    color: rgba(255, 255, 255, 0.699);
+    text-align: center;
+    font-size: 2em;
+}
+
+.nav {
+    margin-left: 200px;
+}
+
+.nav li {
+    display: inline;
+    margin-left: 50px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.877);
+    font-weight: bold;
+    color: black;
+}
